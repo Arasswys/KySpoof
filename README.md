@@ -1,0 +1,2 @@
+# KySpoof
+WARNING ! PLEASE READ "README" FİLE!
